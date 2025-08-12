@@ -1,2 +1,12 @@
 # Petrol-Price-Prediction-Using-Machine-Learning
-Predicting Petrol Price using ML and time series
+-Used Synthetic Data
+# Models
+- Pandas
+- Numpy
+- Matplot
+- DateTime
+- Arima
+- Prophet
+- XGBoost
+- Standard Scaler
+- Scikit Learn
